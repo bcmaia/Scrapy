@@ -1,3 +1,2 @@
 import scrapy
 
-scrapy.run()

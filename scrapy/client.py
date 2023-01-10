@@ -1,4 +1,4 @@
-from . import consts
+from . import settings
 import discord
 
 class Client(discord.Client):
