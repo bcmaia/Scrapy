@@ -1,0 +1,230 @@
+[2023-01-16 21:26:05.438956] aaa
+[2023-01-16 21:33:51.562183] Added new cog: test_01 <<class 'scrapy.cogs.general.test_01'>>
+[2023-01-16 21:33:51.562286] Added new cog: test_02 <<class 'scrapy.cogs.general.test_02'>>
+[2023-01-16 21:33:51.562344] aaa
+[2023-01-16 21:36:36.523954] Added new cog: test_01 <class 'scrapy.cogs.general.test_01'>
+[2023-01-16 21:36:36.524067] Added new cog: test_02 <class 'scrapy.cogs.general.test_02'>
+[2023-01-16 21:36:36.524136] aaa
+[2023-01-16 21:36:50.510717] Added new cog: test_01 <class 'scrapy.cogs.general.test_01'>
+[2023-01-16 21:36:50.510908] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to error division by zero:Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:36:50.510996] Added new cog: test_02 <class 'scrapy.cogs.general.test_02'>
+[2023-01-16 21:36:50.511122] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to error division by zero:Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:36:50.511194] aaa
+[2023-01-16 21:38:57.419219] Added new cog: test_01 <class 'scrapy.cogs.general.test_01'>
+[2023-01-16 21:38:57.419403] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to an error:
+division by zero
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:38:57.419487] Added new cog: test_02 <class 'scrapy.cogs.general.test_02'>
+[2023-01-16 21:38:57.419608] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to an error:
+division by zero
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:38:57.419681] aaa
+[2023-01-16 21:39:20.887392] Added new cog: test_01 <class 'scrapy.cogs.general.test_01'>
+[2023-01-16 21:39:20.887575] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to an error:
+!->>>division by zero
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:39:20.887660] Added new cog: test_02 <class 'scrapy.cogs.general.test_02'>
+[2023-01-16 21:39:20.887783] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to an error:
+!->>>division by zero
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:39:20.887854] aaa
+[2023-01-16 21:39:26.587968] Added new cog: test_01 <class 'scrapy.cogs.general.test_01'>
+[2023-01-16 21:39:26.588079] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to an error:
+!->>> division by zero
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:39:26.588130] Added new cog: test_02 <class 'scrapy.cogs.general.test_02'>
+[2023-01-16 21:39:26.588205] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to an error:
+!->>> division by zero
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:39:26.588241] aaa
+[2023-01-16 21:40:53.324896] Added new cog: test_01 <class 'scrapy.cogs.general.test_01'>
+[2023-01-16 21:40:53.325092] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to an error:
+!->>> division by zero
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:40:53.325175] Added new cog: test_02 <class 'scrapy.cogs.general.test_02'>
+[2023-01-16 21:40:53.325296] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to an error:
+!->>> division by zero
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 36, in add_cog
+    1/0
+ZeroDivisionError: division by zero
+
+[2023-01-16 21:40:53.325362] aaa
+[2023-01-16 21:45:43.351094] Attempting to add a batch of cogs.
+[2023-01-16 21:45:43.352891] Added new cog: test_01 <class 'scrapy.cogs.general.test_01'>
+[2023-01-16 21:45:43.352996] Added new cog: test_02 <class 'scrapy.cogs.general.test_02'>
+[2023-01-16 21:45:43.353070] All 2 cog operations finished with 0 failures.
+[2023-01-16 21:45:43.353125] aaa
+[2023-01-16 21:48:38.171192] 
+
+Starting the initialization of a new bot.
+[2023-01-16 21:48:38.172286] Attempting to add a batch of cogs.
+[2023-01-16 21:48:38.174451] Added new cog: test_01 <class 'scrapy.cogs.general.test_01'>
+[2023-01-16 21:48:38.174577] Added new cog: test_02 <class 'scrapy.cogs.general.test_02'>
+[2023-01-16 21:48:38.174654] All 2 cog operations finished with 0 failures.
+[2023-01-16 21:48:38.174715] New bot Created.
+
+[2023-01-16 22:13:10.103667] 
+
+Starting the initialization of a new bot.
+[2023-01-16 22:13:10.104783] Attempting to add a batch of cogs.
+[2023-01-16 22:13:10.106328] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:13:10.106524] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:13:10.106613] All 2 cog operations finished with 2 failures.
+[2023-01-16 22:13:10.106679] New bot Created.
+
+[2023-01-16 22:13:22.928028] 
+
+Starting the initialization of a new bot.
+[2023-01-16 22:13:22.929484] Attempting to add a batch of cogs.
+[2023-01-16 22:13:22.931537] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:13:22.931771] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:13:22.931876] All 2 cog operations finished with 2 failures.
+[2023-01-16 22:13:22.931959] New bot Created.
+
+[2023-01-16 22:13:22.932033] Starting the client...
+[2023-01-16 22:14:02.885459] 
+
+Starting the initialization of a new bot.
+[2023-01-16 22:14:02.886497] Attempting to add a batch of cogs.
+[2023-01-16 22:14:02.888004] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:14:02.888198] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:14:02.888288] All 2 cog operations finished with 2 failures.
+[2023-01-16 22:14:02.888366] New bot Created.
+
+[2023-01-16 22:14:02.888442] Starting the client...
+[2023-01-16 22:14:27.414021] 
+
+Starting the initialization of a new bot.
+[2023-01-16 22:14:27.415060] Attempting to add a batch of cogs.
+[2023-01-16 22:14:27.416622] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:14:27.416803] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:14:27.416882] All 2 cog operations finished with 2 failures.
+[2023-01-16 22:14:27.416944] New bot Created.
+
+[2023-01-16 22:14:42.890712] 
+
+Starting the initialization of a new bot.
+[2023-01-16 22:14:42.891857] Attempting to add a batch of cogs.
+[2023-01-16 22:14:42.893432] Failed to add new cog: test_01 <class 'scrapy.cogs.general.test_01'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:14:42.893604] Failed to add new cog: test_02 <class 'scrapy.cogs.general.test_02'> due to an error:
+!->>> cogs must derive from Cog
+Traceback (most recent call last):
+  File "/home/b/Documents/GitHub/Scrapy/scrapy/bot.py", line 57, in add_cog
+    await self.client.add_cog(cog)
+  File "/home/b/.local/lib/python3.10/site-packages/discord/ext/commands/bot.py", line 770, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+
+[2023-01-16 22:14:42.893690] All 2 cog operations finished with 2 failures.
+[2023-01-16 22:14:42.893772] New bot Created.
+
+[2023-01-16 22:14:42.893850] Starting the client...
